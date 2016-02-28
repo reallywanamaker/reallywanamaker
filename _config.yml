@@ -7,6 +7,9 @@ baseurl:     ""
 url:         "http://matthewwanamaker.com"
 date_format: "%b %-d, %Y"
 
+# Gems
+gems: [jekyll-paginate]
+
 # Google analytics
 # Google services
 google_analytics: UA-53548208-1
@@ -25,15 +28,15 @@ disqus_shortname:
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: 
-facebook_appid: 
+facebook_comments:
+facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: reallywanamaker
 google_plus_id:
 linkedin_username:
 angellist_username:

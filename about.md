@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: About Matt
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+# About
+I'm Matthew Wanamaker and I work with technology.  I have a wonderful family.  I enjoy playing golf, listening to music, and reading.  Most of my time when not with my family, is spent in front of a computer.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+# Purpose
+Like so many other families, we are busier than we could imagine we could be.  I'm constantly trying to figure out new ways to use technology to make to help with our hectic schedules.  Unfortunately, I feel like we are a bit ahead of what technology can do to help in many instances.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+This blog is a collection of ideas, experiments, products, and anything else I've tried to make things work for us.  I'll also occasionally post about other popular culture interests.  Product links are affiliate links whenever possible.

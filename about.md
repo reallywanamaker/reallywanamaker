@@ -11,3 +11,11 @@ I'm Matthew Wanamaker and I work with technology.  I have a wonderful family.  I
 Like so many other families, we are busier than we could imagine we could be.  I'm constantly trying to figure out new ways to use technology to make to help with our hectic schedules.  Unfortunately, I feel like we are a bit ahead of what technology can do to help in many instances.
 
 This blog is a collection of ideas, experiments, products, and anything else I've tried to make things work for us.  I'll also occasionally post about other popular culture interests.  Product links are affiliate links whenever possible.
+
+# Theme
+[Pixyll Theme][pixyll] crafted with &lt;3 by [John Otander][JO] - [@4lpine] [JOTwitter].
+
+
+[pixyll]: https://github.com/johnotander/pixyll
+[JO]: http://johnotander.com
+[JOTwitter]: https://twitter.com/4lpine

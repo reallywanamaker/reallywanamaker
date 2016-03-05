@@ -33,3 +33,5 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import 'bigfoot-default';

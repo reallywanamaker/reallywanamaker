@@ -11,7 +11,8 @@
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  font-size: $h1;
+  text-align: end;
 }
 
 .site-nav {
@@ -41,10 +42,6 @@
   opacity: 0.88;
 }
 
-.site-header {
-  text-align: center;
-}
-
 .site-header .site-nav {
-  text-align: center;
+  text-align: right;
 }

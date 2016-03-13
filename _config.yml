@@ -3,7 +3,7 @@ title:       Really Wanamaker
 email:       mwanamaker@icloud.com
 author:      Matthew Wanamaker
 description: "I'm just a plain text guy living in an emoji world"
-baseurl:     ""
+baseurl:     "/reallywanamaker"
 url:         "http://matthewwanamaker.com"
 date_format: "%b %-d, %Y"
 
@@ -12,7 +12,7 @@ gems: [jekyll-paginate]
 
 # Google analytics
 # Google services
-google_analytics: 
+google_analytics: UA-57906239-1
 google_verification:
 
 # Optional features

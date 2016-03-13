@@ -1,5 +1,0 @@
----
-layout: post
-title: "new test"
-date: "2016-03-07 16:36:18 -0800"
----

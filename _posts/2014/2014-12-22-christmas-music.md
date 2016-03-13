@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Christmas Music
-date:       2014-12-22
+title:      "Christmas Music"
+date:       "2014-12-22"
 summary:    My favorite Christmas Music
 categories: music christmas
 ---

@@ -10,7 +10,7 @@ The home screen of my phone is in many ways the easiest way to introduce myself 
 
 The home screen of my phone is in very ways an aspirational ideal with how I use it to compliment my life. Not only do I put the apps I use the most on the home screen and within easy reach of my thumb, but I also put the apps I want to use more on the home screen. I am frequently reserving room for apps that I feel should be part of my life. Because of this, I am constantly fiddling with the apps and the order. This post is meant to kick off a series of post detailing how I change my home screen over time to fine tune it around what is important to me.  
 
-![home screen ](/images/2016/03/home_screen.jpg)
+![home screen ](../images/2016/03/home_screen.jpg)
 
 The wallpaper comes form the great podcast [Cortex](https://www.relay.fm/cortex/3). Additionally, the idea of putting a top row of folders to pick up all my apps came from [Cortex](https://www.relay.fm/cortex) as well. This allows me to have one screen to use and really speeds up my interactions with the phone. Apps I want to use are on the home screen, so I can quickly access them. Everything else I just search for. There are no badges currently up on my screen and that is not but accident. I reserve badges for interrupt driven activities. I only want a badge to appear if I should stop what I'm doing and deal with it. Very few apps meet that threshold. I also like to keep an empty row to make the screen feel a clean. I don't know why, but when I have apps on the bottom row, I start to feel cluttered when using the phone and I don't like it. I will occasionally use the bottom row when I travel, to move out momentarily important apps, but as soon as I'm settled in, they go back to their folders
 

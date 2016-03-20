@@ -8,7 +8,8 @@ categories: gtd
 
 When I look back at my workflows that I used in my early professional career, I often wonder how I wasn't fired. I wasn't prepared for the onslaught of volume I would receive from customers. I did not have any training on how to manage a workday or how to organize what I work on. This led to a lot of experimenting on how I could keep my sanity while keeping up with my workload. I tried numerous ideas mostly through manipulating Outlook rules. While most experiments did not help I stumbled on to an incredibly important concept that has been a linchpin for me being a functional adult.
 
-I quickly realized that I (and many other co-workers) was using my email inbox to hold several types of items:
+I quickly realized that I (and many other co-workers) was using my email inbox to hold several types of items:  
+
 - **New**/Unread email
 - Emails that contained **to do** tasks
 - **Informational** emails that I may or may not need
@@ -20,7 +21,8 @@ By thinking about the different items in my inbox, I realized that there was no 
 # Capture
 On my desk at the time, I had a little inbox that was used whenever I was assigned a new customer. I would receive the contract in it, and I would move it to the appropriate file during the day. Nothing stayed in the inbox. I know I did not need to move the paperwork immediately, but when I did I emptied the entire inbox and enjoyed the feeling of figuring out what everything was.
 
-There is no reason, why I couldn't treat my email inbox the same way. If I was good at capturing everything that I needed to do, then I could use the inbox as my physical inbox; it just needed to hold things until I decided what to do with it. I quickly setup a new **simplified** folder structure to support the types of email I was keeping in my inbox.
+There is no reason, why I couldn't treat my email inbox the same way. If I was good at capturing everything that I needed to do, then I could use the inbox as my physical inbox; it just needed to hold things until I decided what to do with it. I quickly setup a new **simplified** folder structure to support the types of email I was keeping in my inbox.  
+
 - **Inbox** - New/Unread email
 - **@Action** - Emails that have something **I** need to complete
 - **@Waiting** - Emails that I am waiting for someone else to complete an action

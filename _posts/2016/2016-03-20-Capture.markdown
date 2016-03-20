@@ -1,0 +1,34 @@
+---
+layout: post
+title: Capture
+date: '2016-03-20 09:36'
+summary: or how I learned to start capturing all my asks in one central place
+categories: gtd
+---
+
+When I look back at my workflows that I used in my early professional career, I often wonder how I wasn't fired. I wasn't prepared for the onslaught of volume I would receive from customers. I did not have any training on how to manage a workday or how to organize what I work on. This led to a lot of experimenting on how I could keep my sanity while keeping up with my workload. I tried numerous ideas mostly through manipulating Outlook rules. While most experiments did not help I stumbled on to an incredibly important concept that has been a linchpin for me being a functional adult.
+
+I quickly realized that I (and many other co-workers) was using my email inbox to hold several types of items:
+- **New**/Unread email
+- Emails that contained **to do** tasks
+- **Informational** emails that I may or may not need
+- Emails I had **not figured out** what to do with
+- Emails I was **avoiding**
+
+By thinking about the different items in my inbox, I realized that there was no system of flagging that could keep this as a functional work management system. If I glanced back at my inbox, I would often need to re-decide if something was informational or a to do. However, more importantly, I would often go in to my inbox to look for a specific email and get distracted by a new email that I had received. There are times that it is important to drop the current work and pick up the newest thing, but when you live in your email inbox and see every new email that comes in, the interruption will happen more frequently than is necessary. Since I had an incredible amount of randomness in the inbox, I also wasn't adding new items that came up in meetings or outside of email. I had a separate list on paper of other things to do. This created a large problem when deciding what to do. Eventually I figured out exactly how I should treat this problem, by using a real world metaphor.
+
+# Capture
+On my desk at the time, I had a little inbox that was used whenever I was assigned a new customer. I would receive the contract in it, and I would move it to the appropriate file during the day. Nothing stayed in the inbox. I know I did not need to move the paperwork immediately, but when I did I emptied the entire inbox and enjoyed the feeling of figuring out what everything was.
+
+There is no reason, why I couldn't treat my email inbox the same way. If I was good at capturing everything that I needed to do, then I could use the inbox as my physical inbox; it just needed to hold things until I decided what to do with it. I quickly setup a new **simplified** folder structure to support the types of email I was keeping in my inbox.
+- **Inbox** - New/Unread email
+- **@Action** - Emails that have something **I** need to complete
+- **@Waiting** - Emails that I am waiting for someone else to complete an action
+- **Archive** - Emails I want to keep, but are not actionable
+- **Trash** - Emails I don't need to keep
+
+I decided that three times a day, I would go to my inbox and process the email down to zero. I immediately removed one of the types of email in my inbox; there were no emails that I had not figured out. Additionally, it became easier to identify the emails that I was ignoring.
+
+Now that I had a safe place to capture new things, I started to send notes to myself so that I could process them accordingly. The inbox was no longer a dreaded place to look, but a place that actually served a purpose. I no longer was storing ideas or to do items that came up in a meeting or a conversation in my head. I now send those to my inbox to process at the appropriate time.
+
+Creating what ultimately was a simple shift to what I keep in my inbox was the first important step to creating a workflow system that allows me to identify the right work and to reduce stress around all the thing floating in and out of work. If it's important work to do, it will end up in my inbox, captured, and I will easily be able to prioritize it when I need to.
